@@ -1,0 +1,63 @@
+{
+  "php.validate.enable": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [{
+      "scope": "comment.block",
+      "settings": {
+        "foreground": "#FF0000"
+      },
+      "scope": "constant",
+      "settings":{
+        "foreground": "#FF0000",
+        "fontStyle": "bold"
+      },
+      "scope":"entity",
+      "settings":{
+        "foreground": "#0146a1",
+        "fontStyle": "bold"
+      },
+      "scope":"entity.name.tag",
+      "settings":{
+        "foreground": "#126b16",
+        "fontStyle": "bold"
+      }
+    }],
+    "keywords": "#00ad5c",
+    "functions": "#c52e00",
+    "types": "#bd42bd",
+    "variables": "#0146a1",
+    "numbers": "#bf30cc",
+    "strings": "#f3a200",
+    "comments": "#7a7a7a",
+  },
+  "workbench.colorCustomizations":{
+    "sideBar.border": "#ff0000",
+    "terminal.background": "#bdbdbd",
+    "terminalCursor.foreground": "#ffc400",
+    "terminalCursor.background": "#ffc400",
+    "terminal.border": "#ffee00",
+    "terminal.foreground": "#ffffff",
+    "scrollbarSlider.background": "#00e1ff",
+    "editor.background": "#dfdfdf",
+    "tab.activeBackground": "#ffc400",
+    "tab.hoverBackground": "#00e1ff",
+    "tab.hoverBorder": "#ffc400",
+    "tab.inactiveForeground": "#000000"    
+
+  },
+  "[php]":{
+    "editor.wordWrap": "on",
+    
+  },
+  "editor.fontWeight": "700",
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "javascript.preferences.quoteStyle": "auto",
+  "terminal.integrated.fontWeight": "900",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "editor.fontSize": 12,
+  "terminal.integrated.fontSize": 12,
+  "editor.cursorWidth": 4,
+  "editor.colorDecorators": true,
+
+}
