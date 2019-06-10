@@ -1,0 +1,49 @@
+{
+  "php.validate.enable": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [{
+      "scope":"entity.name.tag",
+      "settings":{
+        "foreground": "#06750b",
+        "fontStyle": "bold"
+      },
+    }],
+    "keywords": "#00ad5c",
+    "functions": "#c52e00",
+    "types": "#ff8e0d",
+    "variables": "#0146a1",
+    "numbers": "#bf30cc",
+    "strings": "#0892d0",
+    "comments": "#7a7a7a",
+  },
+  "workbench.colorCustomizations":{
+    "sideBar.border": "#ff0000",
+    "terminal.background": "#3b3b3b",
+    "terminalCursor.foreground": "#ffc400",
+    "terminalCursor.background": "#ffc400",
+    "terminal.border": "#ffee00",
+    "terminal.foreground": "#ffffff",
+    "scrollbarSlider.background": "#00e1ff",
+    "editor.background": "#dfdfdf",
+    "tab.activeBackground": "#ffc400",
+    "tab.hoverBackground": "#00e1ff",
+    "tab.hoverBorder": "#ffc400",
+    "tab.inactiveForeground": "#000000"    
+
+  },
+  "[php]":{
+    "editor.wordWrap": "on",
+  },
+  "editor.fontWeight": "700",
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "javascript.preferences.quoteStyle": "auto",
+  "php.suggest.basic": true,
+  "html.format.indentInnerHtml": true,
+  "terminal.integrated.fontWeight": "900",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "editor.fontSize": 12,
+  "terminal.integrated.fontSize": 12,
+  "editor.cursorWidth": 4,
+  "editor.colorDecorators": true,
+}
