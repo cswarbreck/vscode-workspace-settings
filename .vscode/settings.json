@@ -31,7 +31,6 @@
     "comments": "#7a7a7a",
   },
   "workbench.colorCustomizations":{
-    "sideBar.border": "#ff0000",
     "terminal.background": "#bdbdbd",
     "terminalCursor.foreground": "#ffc400",
     "terminalCursor.background": "#ffc400",
@@ -42,8 +41,7 @@
     "tab.activeBackground": "#ffc400",
     "tab.hoverBackground": "#00e1ff",
     "tab.hoverBorder": "#ffc400",
-    "tab.inactiveForeground": "#000000"    
-
+    "tab.inactiveForeground": "#000000"
   },
   "[php]":{
     "editor.wordWrap": "on",
