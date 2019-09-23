@@ -4,14 +4,13 @@
     "javascript": "html",
  },
  "bracket-pair-colorizer-2.colors": [
-   "#3b3b3b",
-   "#0146a1",
-   "#0089c9",
-   "#b0dce6",
-   "#ad9fdf",
-   "#ffc400",
-   "#00e1ff",
-   "#fff",
+   "#ff0000",
+   "#ffa500",
+   "#ffff00",
+   "#008000",
+   "#0000ff",
+   "#4b0082",
+   "#ee82ee"
  ],
  "bracket-pair-colorizer-2.activeScopeCSS": [
    "borderStyle : solid",
